@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/brewipv4",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Brew color ipv4 values and contrast-safe presentation helpers.",
+  "bin": {
+    "brewipv4": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/brewipv4.git"
+  },
+  "homepage": "https://theworker02.github.io/brewipv4/",
+  "keywords": [
+    "brew",
+    "ipv4",
+    "color",
+    "cli",
+    "toolkit"
+  ]
+}
